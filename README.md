@@ -1,4 +1,4 @@
-### Meu nome é Erika
+# Meu nome é Erika
 
 Estou cursanso a matéria **Pensamento Computacional** e estou apredendo a programar em **JavaScript**
 
