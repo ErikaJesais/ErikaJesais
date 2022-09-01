@@ -1,6 +1,8 @@
 ## Meu nome é Erika
 
-Estou cursanso a matéria **Pensamento Computacional** e estou apredendo a programar em **JavaScript**
+- Estou cursanso a matéria [Pensamento Computacional](https://blog.conexia.com.br/pensamento-computacional/#:~:text=O%20que%20%C3%A9%20pensamento%20computacional,forma%20cr%C3%ADtica%2C%20criativa%20e%20estrat%C3%A9gica.)
+
+- Estou apredendo a programar em **JavaScript**
 
 - Pretendo me aprofundar mais nessa área de programação, ja que algo que eu gosto e me interesso muito
 
